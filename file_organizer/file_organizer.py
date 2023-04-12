@@ -60,6 +60,7 @@ file_types = {
     '.avi': 'Videos',
     '.3gp': 'Videos',
     '.wmv': 'Videos',
+    '.mov': 'Videos',
     '.pdf': 'Documents',
     '.doc': 'Documents',
     '.docx': 'Documents',
