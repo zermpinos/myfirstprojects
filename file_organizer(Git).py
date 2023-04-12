@@ -23,7 +23,7 @@ Functions:
 
 
 Author:
-    Panagiotios Zermpinios
+    Panagiotis Zermpinos
 
 Version:
     1.0 (April 2023)
